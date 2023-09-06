@@ -1,8 +1,6 @@
 const navIcon = document.getElementById('nav-icon');
 const navTitle = document.getElementById('nav-title');
 
-const txtLight = document.createTextNode("Light");
-
 // function to set a given theme/color-scheme
 function setTheme(themeName) {
     localStorage.setItem('theme', themeName);
