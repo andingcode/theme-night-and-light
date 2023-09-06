@@ -2,4 +2,8 @@
 
 Join the channel to see more videos like this. [Landingcode]
 
-![preview img](/preview.png)
+Light Theme
+![preview img](/preview-light.png)
+
+Night Theme
+![preview img](/preview-night.png)
