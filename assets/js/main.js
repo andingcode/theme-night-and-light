@@ -1,7 +1,6 @@
 const navIcon = document.getElementById('nav-icon');
 const navTitle = document.getElementById('nav-title');
 
-const txtNight = document.createTextNode("Night");
 const txtLight = document.createTextNode("Light");
 
 // function to set a given theme/color-scheme
